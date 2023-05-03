@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "name": "Dario Macedo",
+      "price": 2222,
+      "description": "blog website with next.js and typscript",
+      "inStock": true,
+      "id": 4
+    },
+    {
+      "name": "Dario Macedo",
+      "price": 2222,
+      "description": "blog website with next.js and typscript",
+      "inStock": true,
+      "id": 5
+    },
+    {
+      "name": "Dario Macedo",
+      "price": 2222,
+      "description": "blog website with next.js and typscript",
+      "inStock": false,
+      "id": 7
+    }
+  ]
+}
